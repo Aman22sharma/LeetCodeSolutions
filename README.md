@@ -1,11 +1,11 @@
-# LeetCode-Solutions-JavaScript
+# LeetCode-Solutions
 
-<table>
-<tr>
-<td>Eeasy</td><td>Medium</td>
-</tr>
-<tr>
-<td><a href="#">1. Two Sum</a></td><td><a href="#"></a></td>
+![Language](https://img.shields.io/badge/language-JavaScript%20%2F%20C++-green.svg)&nbsp;
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
+![Update](https://img.shields.io/badge/update-weekly-orange.svg)&nbsp;
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aman22sharma.leetcode.solutions)
 
-</tr>
-</table>
+
+|   Easy    |    Medium     |
+| --------------- | ---------------- |
+[1. Two Sum](./Problems/1-Two-Sum.md) |  |
